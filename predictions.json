@@ -3,60 +3,70 @@
     "instruction": "Kuliner malam di Jogja?",
     "input": "",
     "expected_output": "Angkringan (Lik Man), Gudeg Permata Bu Pujo, Sate Klathak Pak Bari (Pasar Wonokromo), dan Oseng Mercon Bu Narti semuanya buka malam.",
-    "model_response": "Untuk makan malam, coba Gudeg (Yu Djum/Sagan), Bakmi Jawa Mbah Gito, atau Soto Kadipiro."
+    "model_response": "Angkringan Lik Man buka sampai pagi. Gudeg Yu Djum 24 jam. Sate Klathak Pak Bari Buka Malam (malam-pawon).",
+    "score": 10
   },
   {
     "instruction": "Mengapa pendidikan Islam tradisional sulit bersaing?",
     "input": "",
     "expected_output": "Karena tidak memberikan keterampilan modern yang dibutuhkan masyarakat.",
-    "model_response": "Karena masyarakat pribumi belum siap menerima sistem modern. Mereka lebih memilih belajar tradisional."
+    "model_response": "Karena persaingan politik dan kekuasaan.",
+    "score": 7
   },
   {
     "instruction": "Soto Kadipiro buka jam berapa?",
     "input": "",
     "expected_output": "Soto Kadipiro buka pagi pukul 06.00 - 13.00 WIB. Sering sold out sebelum siang.",
-    "model_response": "24 jam non-stop. Buka sampai pagi hari, bahkan untuk pembeli malam yang datang ke Malioboro."
+    "model_response": "24 jam non-stop setiap hari.",
+    "score": 10
   },
   {
     "instruction": "Es krim murah Jogja?",
     "input": "",
     "expected_output": "Tempo Gelato untuk gelato premium. Rujak Es Krim Pak Nardi untuk pengalaman tradisional unik.",
-    "model_response": "Tempo Gelato untuk gelato premium. Rujak Es Krim Pak Nardi untuk pengalaman tradisional unik."
+    "model_response": "Tempo Gelato untuk gelato premium. Roaster and Bear untuk yang lebih modern dengan wifi kencang.",
+    "score": 10
   },
   {
     "instruction": "Review rasa Sate Klathak Pak Pong.",
     "input": "",
     "expected_output": "Dagingnya empuk (kambing muda), bumbu minimalis garam lada, disajikan dengan kuah gulai kental.",
-    "model_response": "Sate klathak pak pong punya ciri khas gudeg manis yang melimpah, tekstur daging empuk, dan kuah santan super creamy. Kombinasi unik!"
+    "model_response": "Sangat pedas! Kalau suka pedas, coba Oseng Mercon (pindang).",
+    "score": 8
   },
   {
     "instruction": "Apa respons Mangkubumi ketika diperintahkan menghadapkan Diponegoro?",
     "input": "",
     "expected_output": "Ia menolak dan justru bergabung dengan Diponegoro.",
-    "model_response": "Menyiapkan istana sebagai tempat istirahat."
+    "model_response": "Ia berusaha melarikan diri. Namun akhirnya dirampok Belanda dan ditangkap.",
+    "score": 9
   },
   {
     "instruction": "Mengapa Islam awal di Jawa bersifat kuantitas, bukan kualitas?",
     "input": "",
     "expected_output": "Karena pengislaman terjadi cepat tanpa pendalaman doktrin.",
-    "model_response": "Karena jumlah murid yang meningkat mendorong penambahan pengajar."
+    "model_response": "Karena fokusnya pada jumlah pengikut dan wilayah kekuasaan.",
+    "score": 8
   },
   {
     "instruction": "Di mana Kongres Budi Utomo I dilaksanakan?",
     "input": "",
     "expected_output": "Di Yogyakarta.",
-    "model_response": "Di Yogyakarta."
+    "model_response": "Gedung Patangpuluhan.",
+    "score": 10
   },
   {
     "instruction": "Apa istilah lain untuk Perang Diponegoro?",
     "input": "",
     "expected_output": "Perang Jawa.",
-    "model_response": "Perang Jawa."
+    "model_response": "Perang Kraton.",
+    "score": 10
   },
   {
     "instruction": "Makanan favorit mahasiswa Jogja?",
     "input": "",
     "expected_output": "Favorit mahasiswa: Olive Fried Chicken, Burjo (Bubur Kacang Ijo), Warmindo (Warung Makan Indomie), dan penyetan pinggir jalan.",
-    "model_response": "Dekat area tersebut banyak warung lokal. Pakai Google Maps cari 'kuliner dekat saya' atau tanya warga."
+    "model_response": "Untuk makan siang, coba Gudeg (Yu Djum/Sagan), Bakmi Jawa Mbah Gito, atau Soto Kadipiro.",
+    "score": 8
   }
 ]
