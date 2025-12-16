@@ -8,7 +8,7 @@
 | 3 | Jovita Maria E.H | 230712428 |
 
 **Kelas:** A  
-**Nama Kelompok:** UAs DL GWS
+**Nama Kelompok:** UAS DL GWS
 
 ---
 
