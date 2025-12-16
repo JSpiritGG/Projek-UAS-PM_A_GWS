@@ -24,7 +24,6 @@ Model dasar yang digunakan adalah **Gemma 2B** dari Google, yang di-fine-tune de
 |----------|------|
 | 🌐 **Demo Aplikasi** | [https://huggingface.co/spaces/JSpiritGG/jogja-kuliner-chatbot](https://huggingface.co/spaces/JSpiritGG/jogja-kuliner-chatbot) |
 | 🤖 **Model (HuggingFace)** | [https://huggingface.co/JSpiritGG/jogja-kuliner-chatbot](https://huggingface.co/JSpiritGG/jogja-kuliner-chatbot) |
-| 📊 **Dataset** | [Link Dataset] |
 
 ---
 
