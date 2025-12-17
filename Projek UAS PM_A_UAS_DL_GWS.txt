@@ -1,3 +1,0 @@
-Link GitHub:https://github.com/JSpiritGG/Projek-UAS-PMDPM_A_GWS-DL
-
-Link Gradio:https://huggingface.co/spaces/JSpiritGG/jogja-kuliner-chatbot
